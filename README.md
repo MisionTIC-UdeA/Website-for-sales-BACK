@@ -1,7 +1,9 @@
 # Website-for-sales-BACK
 Website to manage the sales of a product or service.
 
-¿Cómo usar este proyecto? Paso 1: clonar el proyecto
+¿Cómo usar este proyecto? 
+
+Paso 1: clonar el proyecto
 
 git clone
 
